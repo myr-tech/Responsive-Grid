@@ -25,7 +25,7 @@
     
 }
 .navbar{
-    background-color: rgb(27, 210, 122);
+    background-color: rgb(39, 27, 210);
     grid-area: navbar;
 }
 .navbar nav ul{
